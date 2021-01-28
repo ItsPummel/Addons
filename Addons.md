@@ -1,4 +1,4 @@
-Bagnon - Bag organization addon
+#### Bagnon - Bag organization addon
   https://www.curseforge.com/wow/addons/bagnon
 
 Classic Castbars - See castbars on all enemies in pve and pvp
